@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: domix/very-simple-java-app:0.0.1-snapshot
+        image: jmautino/very-simple-java-app:0.0.1-snapshot
         resources:
           requests:
             cpu: 250m
